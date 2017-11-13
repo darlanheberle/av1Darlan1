@@ -45,3 +45,39 @@ p.carousel-inner{
   margin-bottom: 70px;
 
 }
+
+.carousel-control.right {
+  background-image: none !important;
+}
+
+.carousel-control.left {
+  background-image: none !important;
+}
+
+.carousel-inner > .active, .carousel-inner > .next, .carousel-inner > .prev {
+  display: inline-block; !important;
+}
+
+#testimonials {
+    padding-top: 0px;
+    padding-bottom: 70px;
+    background-color: #eeeeee;
+    }
+
+.center-block {
+    
+    margin-left: none;
+}
+
+#texto2{
+
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#descricao1{
+  background-color: #eeeeee;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+}
